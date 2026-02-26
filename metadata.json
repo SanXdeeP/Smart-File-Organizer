@@ -1,0 +1,5 @@
+{
+  "name": "Smart File Organizer",
+  "description": "A web-based automation tool that categorizes and organizes files by type, simulating a Python-based file management system.",
+  "requestFramePermissions": []
+}
