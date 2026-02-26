@@ -27,7 +27,7 @@ The application demonstrates frontend software development skills including dash
 
 ## Live Demo
 
-https://your-vercel-link.vercel.app
+https://smart-file-organizer-self.vercel.app/
 
 ## Skills Demonstrated
 
