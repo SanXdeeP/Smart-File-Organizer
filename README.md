@@ -1,82 +1,43 @@
-# Smart File Organizer 🗂️
+# FileOrganizer Pro – Web-Based File Organizer
 
 ## Overview
 
-Smart File Organizer is a Python-based desktop application designed to automatically organize files into categorized folders based on their file extensions. It provides a graphical user interface (GUI) for ease of use and includes advanced features such as duplicate handling and preview mode.
+FileOrganizer Pro is a modern web-based file organization system built using Vite and TypeScript. It provides an interactive dashboard interface that allows users to import files, view statistics, and visualize organized directory structures.
 
-This tool helps users manage cluttered folders like Downloads efficiently and demonstrates real-world automation using Python.
+The application demonstrates frontend software development skills including dashboard UI, file handling logic, and system visualization.
 
----
+## Features
 
-## Features ✨
+* Modern dashboard interface
+* File upload support (drag & drop)
+* File statistics tracking
+* Duplicate file detection system
+* Virtual directory preview
+* System logs interface
+* Responsive design
 
-* Automatic file organization by file type
-* Categories include Images, Videos, Documents, Music, Programs, and Others
-* User-friendly GUI built using tkinter
-* Folder selection through graphical interface
-* Duplicate file detection and safe handling
-* Preview mode before organizing files
-* Automatic folder creation
-* Clean and efficient file management
+## Tech Stack
 
----
+* TypeScript
+* Vite
+* HTML/CSS
+* Modern UI components
+* Vercel (deployment)
+* GitHub (version control)
 
-## Technologies Used 🛠️
+## Live Demo
 
-* Python
-* tkinter (GUI)
-* os module (file and folder handling)
-* shutil module (file moving operations)
-* JSON (configurable file categories)
+https://your-vercel-link.vercel.app
 
----
+## Skills Demonstrated
 
-## Project Structure 📁
+* Frontend development
+* Dashboard UI design
+* File management logic
+* Software architecture
+* GitHub and deployment workflow
 
-smart-file-organizer/
-
-* gui_organizer.py
-* organizer.py
-* config.json
-* organizer_log.txt
-* README.md
-* screenshots/
-
----
-
-## Use Case 💡
-
-This application is useful for:
-
-* Organizing Downloads folder automatically
-* Managing cluttered directories
-* Improving productivity
-* Learning Python automation and GUI development
-
----
-
-## Skills Demonstrated 🧠
-
-* Python programming
-* File handling and automation
-* GUI application development
-* Problem solving
-* Software project structuring
-
----
-
-## Future Improvements 🚀
-
-* Progress bar implementation
-* Logging system
-* Executable (.exe) version
-* Dark mode interface
-* Automatic background organization
-
----
-
-## Author 👨‍💻
+## Author
 
 Sandeep Singh
 
-GitHub: https://github.com/Master-SanX
