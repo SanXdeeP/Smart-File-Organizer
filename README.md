@@ -1,59 +1,20 @@
-# Smart File Organizer 🗂️
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+</div>
 
-## Overview
+# Run and deploy your AI Studio app
 
-Smart File Organizer is a Python-based desktop application designed to automatically organize files into categorized folders based on their file extensions. It provides a graphical user interface (GUI) for ease of use and includes advanced features such as duplicate handling and preview mode.
+This contains everything you need to run your app locally.
 
-This tool helps users manage cluttered folders like Downloads efficiently and demonstrates real-world automation using Python.
+View your app in AI Studio: https://ai.studio/apps/fa91949c-f9c9-46bd-9bca-d17f5ccaf3f8
 
----
+## Run Locally
 
-## Features ✨
+**Prerequisites:**  Node.js
 
-* Automatic file organization by file type
-* Categories include Images, Videos, Documents, Music, Programs, and Others
-* User-friendly GUI built using tkinter
-* Folder selection through graphical interface
-* Duplicate file detection and safe handling
-* Preview mode before organizing files
-* Automatic folder creation
-* Clean and efficient file management
 
----
-
-## Use Case 💡
-
-This application is useful for:
-
-* Organizing Downloads folder automatically
-* Managing cluttered directories
-* Improving productivity
-* Learning Python automation and GUI development
-
----
-
-## Skills Demonstrated 🧠
-
-* Python programming
-* File handling and automation
-* GUI application development
-* Problem solving
-* Software project structuring
-
----
-
-## Future Improvements 🚀
-
-* Progress bar implementation
-* Logging system
-* Executable (.exe) version
-* Dark mode interface
-* Automatic background organization
-
----
-
-## Author 👨‍💻
-
-Sandeep Singh
-
-GitHub: https://github.com/Master-SanX
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
